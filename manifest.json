@@ -1,0 +1,10 @@
+{
+  "name": "R-Creative",
+  "short_name": "R",
+  "theme_color": "#1d9bff",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/index.html"
+}
