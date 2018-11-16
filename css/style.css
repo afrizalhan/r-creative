@@ -11,6 +11,9 @@
 .bold{
   font-weight: bold;
 }
+.stat{
+  margin-left: 195px;
+}
 nav ul a,
 nav .brand-logo {
   color: #0e3b48;
@@ -42,6 +45,9 @@ p {
   #index-banner .section {
     top: 10%;
   }
+  .stat{
+    margin-left: 40px;
+  }
 }
 
 @media only screen and (max-width : 600px) {
@@ -52,6 +58,7 @@ p {
 
 .icon-block {
   padding: 0 15px;
+  min-height: 
 }
 .icon-block .material-icons {
   font-size: inherit;
