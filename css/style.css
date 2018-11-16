@@ -46,7 +46,7 @@ p {
     top: 10%;
   }
   .stat{
-    margin-left: 0;
+    margin-left: -20px;
   }
 }
 
