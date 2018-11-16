@@ -14,6 +14,9 @@
 .stat{
   margin-left: 195px;
 }
+.para{
+  margin-left: 100px;
+}
 nav ul a,
 nav .brand-logo {
   color: #0e3b48;
@@ -47,6 +50,10 @@ p {
   }
   .stat{
     margin-left: 0;
+  }
+  .para{
+    margin-left: 0;
+    text-align: center;
   }
 }
 
